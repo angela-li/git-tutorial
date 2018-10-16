@@ -51,13 +51,13 @@ Resources
 ---------
 
 -   [Happy Git + R](http://happygitwithr.com), the R user's guide to Github. Note that there are sections that are not completely up-to date. I use this mainly for troubleshooting working with RStudio and Git, and for checking my workflows.
--   [Software Carpentry](https://swcarpentry.github.io/git-novice/), an entire lesson on Git (focus is not on using it with R workflows), really good & comprehensive lesson on things.
--   [NEON tutorial on basic Git concepts, working from the command line](https://www.neonscience.org/github-git-add), has some good diagrams and schematics, as well as explanationa (again, focus is not on using it with R workflows).
+-   [Software Carpentry](https://swcarpentry.github.io/git-novice/), an entire lesson on Git (though focus is not on using it with R workflows), really good & comprehensive.
+-   [NEON tutorial on basic Git concepts, working from the command line](https://www.neonscience.org/github-git-add), has some good diagrams and schematics, as well as explanations (again, focus is not on using it with R workflows).
 
 Troubleshooting
 ---------------
 
-To be updated during/after this workshop!
+-   Cloning with HTTPS may not work for you, for whatever reason. If you're running into authentication troubles pushing, clone with the SSH link on Github instead (that's what I'm currently using). See [discussion here](https://github.com/STAT545-UBC/Discussion/issues/93).
 
 Contact Me
 ----------
