@@ -12,7 +12,7 @@ By the end of this workshop, workshop attendees should be able to:
 1.  Install Git locally and confirm that they can push/pull from Github
 2.  Create a repository on Github and clone it to their computer
 3.  Push a change to Github
-4.  Fork a repository, make an edit, and submit a pull request
+4.  (If time) Fork a repository, make an edit, and submit a pull request
 5.  (If time) Use the command line in RStudio to do the same thing
 
 ⭐️ Do This Now! ⭐️
@@ -58,7 +58,8 @@ Resources
 Troubleshooting
 ---------------
 
--   Cloning with HTTPS may not work for you, for whatever reason. If you're running into authentication troubles pushing, clone with the SSH link on Github instead (that's what I'm currently using). See [discussion here](https://github.com/STAT545-UBC/Discussion/issues/93).
+-   Cloning with HTTPS may not work for you, for whatever reason. If you're running into authentication troubles when you try to push your changes, clone with the SSH link on Github instead (that's what I'm currently using). See [discussion here](https://github.com/STAT545-UBC/Discussion/issues/93).
+-   If you install Git Bash on Windows, type `git --version` into your terminal, and nothing happens, try restarting R (Session &gt; Restart R), and you may find that git has been installed!
 
 Contact Me
 ----------
