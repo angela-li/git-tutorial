@@ -1,2 +1,3 @@
 # git-tutorial
-Repo for folks to fork and practice PRs on
+
+This is a practice repository.
