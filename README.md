@@ -19,7 +19,7 @@ By the end of this workshop, workshop attendees should be able to:
 ------------------
 
 -   **Navigate to Github.** Log in to your [Github](https://github.com) account (you should have already created one).
--   **Navigate to Happy Git, ch. 13.** We're going to start with this \[book chapter\] by Jenny Bryan (<http://happygitwithr.com/rstudio-git-github.html>) - open this up and have it as a guide along the way.
+-   **Navigate to Happy Git, ch. 13.** We're going to start with this [book chapter](http://happygitwithr.com/rstudio-git-github.html) by Jenny Bryan. Open this up and have it as a guide along the way.
 
 Git Basics
 ----------
